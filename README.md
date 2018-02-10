@@ -1,7 +1,6 @@
 # Node.js Todo in 2 ways
 
-Inspired by <a href="https://github.com/CodersLab/Node.js_challenge_dzien_7/">Node.js challenge</a> and <a href="http://todomvc.com/">TodoMVC project</a> 
-**2 solutions for creating a classic Todo app** using Node.js and Express as backend, to showcase CRUD operations in the most basic way.
+**2 solutions for creating a classic Todo app** using Node.js and Express as backend, to showcase CRUD operations in the most basic way. Inspired by <a href="https://github.com/CodersLab/Node.js_challenge_dzien_7/">Node.js challenge</a> and <a href="http://todomvc.com/">TodoMVC project</a>.
 
 ## app-fs
 Data stored in a .json file, using jQuery.

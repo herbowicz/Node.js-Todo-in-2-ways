@@ -12,7 +12,7 @@ Data stored in a .json file, using jQuery.
 ## app-db
 Data stored in MongoDB, rendered using EJS template. <a href="https://nodejs-todo-in-2-ways-hzkgausnci.now.sh/">Demo</a>
 
-##Installation
+## Installation
 In a separate folders:
 ```
 npm install
